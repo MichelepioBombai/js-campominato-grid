@@ -1,0 +1,25 @@
+img{
+    width: 10%;
+    display: inline-block;
+}
+
+h1{
+    display: inline;
+    vertical-align: middle;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button{
+    padding: 1px 30px;
+    border-radius: 10px !important;
+    border: 3px solid lightgrey;
+    
+}
+
+.small_container{
+    max-width: 900px;
+    background-color: hsl(160deg 100% 75%);
+}
